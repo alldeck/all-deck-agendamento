@@ -15,6 +15,20 @@ O cliente traz a carne, e o ALL DECK fornece todo o resto (Lenha, Carvão, Tempe
 * **WhatsApp:** (47) 9 9985-7365
 * **Instagram:** [@all.deck](https://www.instagram.com/all.deck/)
 
+## 🍺 Cardápio de Bebidas (Destaques)
+
+Para acompanhar o seu churrasco, oferecemos uma seleção de chopes e cervejas premium:
+
+* **Chopes (Padrão e Especial):**
+    * Chope Brahma com Colarinho Cremoso 🍺
+    * Chope Brahma Black
+* **Cervejas Garrafa (600ml):**
+    * Original
+    * Heineken
+    * Spaten
+    * Serramalte
+    * Stella Artois
+
 ---
 
 ## 🚀 Funcionalidades
