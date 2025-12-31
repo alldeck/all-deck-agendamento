@@ -1,6 +1,6 @@
 # ALL DECK - Sistema de Agendamento de Churrasqueira 🥩🍺
 
-![ALL DECK Logo](400dpilogo.jpg)
+![ALL DECK Logo](400dpiLogo.jpg)
 
 > **Buteco Raiz em Itajaí/SC**. O ponto de encontro perfeito com churrasqueira à disposição dos clientes.
 
